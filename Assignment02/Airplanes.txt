@@ -1,0 +1,5 @@
+Name	Type	PriceFactor	Capacity
+A380	Commercial	2.5		400
+A330	Commercial	2.0		250
+A350	Commercial	2.3		300
+B747	Commercial	2.4		300

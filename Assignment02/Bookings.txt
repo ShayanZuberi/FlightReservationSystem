@@ -1,0 +1,5 @@
+FlightID	Name	Passport	Class	Seat_no	Price
+1			Shayan	abc123		Business		1	3750.0
+1			Shayan	abc123		Business		1	3750.0
+3			Hamza	120		Business		1	1250.0
+3			Mustafa	134		First Class		1	1250.0

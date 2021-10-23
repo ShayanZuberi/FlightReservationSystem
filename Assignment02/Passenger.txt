@@ -1,0 +1,12 @@
+Name	Gender	Age		Address		Passport_no
+Shayan	M	22	14th street	abc123
+Subhan	M	24	4th street	passp123
+Sufwan	M	18	14th street	pass1234
+Misbah	M	30	rawalpindi	123
+Mudassir	M	19	WahCantt	124
+Amir	M	40	rawalpindi	125
+Ali	M	20	dha 5	126
+Asad	M	22	rawalpindi	126
+Zuberi	M	25	rawalpindi	127
+Hamza	M	25	rawalpindi	120
+Mustafa	M	35	dha 5	134

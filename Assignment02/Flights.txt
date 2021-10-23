@@ -1,0 +1,10 @@
+FlightID Plane Departure Destination Date Duration Capacity
+1 A380 Islamabad Lahore 23 Oct 2021 1 hour 300
+2 A380 Karachi Doha 24 Oct 2021 1 hour 300
+3 A380 Islamabad Doha 23 Oct 2021 1 hour 300
+4 B747 Karachi Doha 24 Oct 2021 1 hour 350
+5 A330 Doha Jeddah 12 Dec 2021 2 hours 250
+6 A330 Jeddah Makkah 15 Dec 2021 1 hour 250
+5 A330 Amsterdam Washington 20 Dec 2021 2 hours 250
+5 A330 Islamabad Amsterdam 25 Dec 2021 5 hours 250
+10 A330 New york washington 18 Dec 2021 3 hour 250
