@@ -20,7 +20,7 @@ public class Airplane {
 		this.capacity = capacity;
 		this.priceFactor = priceFactor;
 		//this.writeToFile();
-	}
+	}//commit change
 	
 	public String getType() {
 		return type;
